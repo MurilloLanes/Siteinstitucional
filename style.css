@@ -14,7 +14,7 @@ body {
 
     width: 100%;
     border-bottom: 2px solid #32b9cd;
-    height: 100px;
+    height: 50px;
 }
 
 .container {
@@ -47,13 +47,13 @@ body {
 
 .banner .container p{
     font-size: 36px;
-    width: 200px;
+    
 }
 .social{
     height: auto;
     background-color: #e5e5e5;
     padding: 40px 0;
-    
+
 }
 .social .container .card{
     width: 200px;
